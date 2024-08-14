@@ -1,5 +1,6 @@
 // script.js
 banana = 2;
+limao = 2;
 // Executa a função quando o DOM estiver totalmente carregado
 document.addEventListener('DOMContentLoaded', () => {
     // Seleciona o formulário de contato pelo ID
